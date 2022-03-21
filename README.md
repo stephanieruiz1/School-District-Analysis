@@ -9,6 +9,7 @@ Maria is the chief data scientist for a city school district and is reponsible f
 ![district_summary_nan](district_summary_nan.png)
 When comparing the two datas we can see that removing 461 students 9th graders barely affected the data.
 #### 2) How is the school summary affected?
+![school_summary_original](school_summary_original.png)
 ![school_summary_nan](school_summary_nan.png)
 In this opportunity, we can tell the big difference removing the 9th grader out of Thomas High school. The % Overall passing drops 26%...
 #### 3) How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
