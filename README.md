@@ -12,6 +12,8 @@ When comparing the two datas we can see that removing 461 students 9th graders b
 ![school_summary_nan](school_summary_nan.png)
 In this opportunity, we can tell the big difference removing the 9th grader out of Thomas High school. The % Overall passing drops 26%...
 #### 3) How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+![high_low_original](high_low_original.png)
+![high_low_nan](high_low_nan.png)
 
 Compating both chart, we can tell that it did not affected the raking realated to math and reading scores.
 ### How does replacing the ninth-grade scores affect the following:
