@@ -19,16 +19,20 @@ Compating both chart, we can tell that it did not affected the raking realated t
 
 The only difference between both charts is that the 9th garders at Thomas High School is that it doesnt have a grade(Nan) for math and reading
 #### 5) Scores by school spending
+
 ![school_spending_original](school_spending_original.png)
 ![school_spending_nan](school_spending_nan.png)
+
 There was almost no impact removing the 9th graders
 #### 6) Scores by school size
 ![school_size_original](school_size_original.png)
 ![school_size_nann](school_size_nann.png)
+
 There was almost no impact removing the 9th graders
 #### 7) Scores by school type
 
 ![school_type_original](school_type_original.png)
 ![school_type_nan](school_type_nan.png)
+
 There was almost no impact removing the 9th graders.
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
