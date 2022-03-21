@@ -24,7 +24,7 @@ The only difference between both charts is that the 9th garders at Thomas High S
 There was almost no impact removing the 9th graders
 #### 6) Scores by school size
 ![school_size_original](school_size_original.png)
-![school_size_nan](school_size_nan.png)
+![school_size_nann](school_size_nann.png)
 There was almost no impact removing the 9th graders
 #### 7) Scores by school type
 
